@@ -1,13 +1,101 @@
-body {
+
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Teko", sans-serif;
+  color: #0f0202;
+
+}
+.navbar{
+  padding: 10px;
+  font-display:flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 3px solid #200869;
+}
+.navbar h1{
+  color: rgb(4, 119, 33);
+}
+.navbar .links{
+  margin-left: auto;
+}
+.navbar a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover{
+  color: rgb(101, 157, 18);
+}
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.blog-preview{
+  padding:10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid green;
+}
+.blog-preview:hover{
+  box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+.blog-preview h2{
+  font-size: 20px;
+  color: rgb(11, 233, 52);
+  margin-bottom: 10px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+.blog-detaisl h2 {
+  font-size: 20px;
+   color: #1b9109;
+   margin-bottom: 10px;
+}
+.blog-detaisl div {
+  margin: 20px 0;
+}
+/* form stle */
+form {
+  max-width: 400px;
+  margin: 0 auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+label {
+  display: block;
+  margin-bottom: 5px;
 }
+
+input[type="text"],
+textarea,
+select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+

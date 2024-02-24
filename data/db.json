@@ -1,0 +1,101 @@
+{
+  "blogs": [
+    {
+      "id": "3",
+      "title": "Pellentesque habitant",
+      "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+      "author": "Alice Johnson",
+      "date": "2024-02-22"
+    },
+    {
+      "id": "dbdf",
+      "title": "AI in medical field",
+      "body": "gdd dfdf dfgdfg dfgdfg dfgdfg",
+      "author": "nidhin"
+    },
+    {
+      "id": "0cf8",
+      "title": "AI in road transport",
+      "body": "ghghglsdfds gfgdfgf fgdfg",
+      "author": "nikhil"
+    },
+    {
+      "id": "08e6",
+      "title": "AI in road transport",
+      "body": "ghghglsdfds gfgdfgf fgdfg",
+      "author": "nikhil"
+    },
+    {
+      "id": "dc42",
+      "title": "AI in road transport",
+      "body": "ghghglsdfds gfgdfgf fgdfg",
+      "author": "nikhil"
+    },
+    {
+      "id": "06ff",
+      "title": "fdbd",
+      "body": "fb",
+      "author": "nidhin"
+    },
+    {
+      "id": "e974",
+      "title": "fdf",
+      "body": "fbfdbd",
+      "author": "nidhin"
+    },
+    {
+      "id": "4436",
+      "title": "fdf",
+      "body": "fbfdbd",
+      "author": "nidhin"
+    },
+    {
+      "id": "dd12",
+      "title": "fdf",
+      "body": "fbfdbd",
+      "author": "nidhin"
+    },
+    {
+      "id": "831d",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "502e",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "dc54",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "c69d",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "d2c9",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "0653",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    },
+    {
+      "id": "efb5",
+      "title": "nohfhg",
+      "body": "egergerge ergerg ergerer ertert ertert rtert erter tert",
+      "author": "nidhin"
+    }
+  ]
+}
